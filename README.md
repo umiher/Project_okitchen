@@ -7,7 +7,11 @@
 
 <image width="100%" src="main.png"></image>
 
-📄 [View More](https://project-okitchen.vercel.app/)
+<div align="center">
+	
+☁ [View More](https://project-okitchen.vercel.app/) ☁
+
+</div>
 
 <br>
 <br>
