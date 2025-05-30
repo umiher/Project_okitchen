@@ -105,9 +105,7 @@ window.addEventListener("load", function(){
 <br>
 
 ### 2. Google Maps API :
-
-
-<br>
+<image width="100%" src="Google Maps.png"></image>
 
 ```c
 let map;
