@@ -7,7 +7,7 @@
 
 <image width="100%" src="main.png"></image>
 
-📄 View : https://project-okitchen.vercel.app/
+📄 [View More](https://project-okitchen.vercel.app/)
 
 <br>
 <br>
