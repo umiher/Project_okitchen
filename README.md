@@ -11,7 +11,7 @@
 
 <div align="center">
 	
-☁ [View More](https://project-okitchen.vercel.app/) ☁
+☁ [Visit Site](https://project-okitchen.vercel.app/) ☁
 
 </div>
 
