@@ -21,7 +21,6 @@
 > <br>
 > **Google Maps API와 Swiper.js를 이용해 동적인 지도 표시와 슬라이더 효과 등을 구현하였습니다.**
 
-
 <br>
 <br>
 
@@ -133,14 +132,3 @@ function initMap(){
 <br>
 
 > **Google Maps API를 활용한 지도 표시 및 마커를 추가하였습니다.**
-
-
-
-
-
-
-
-
-
-
-
